@@ -4,4 +4,9 @@ While someone fixed the bug, we moved forward.
 
 Hmmm, some changes....
 
+Hmm, let's actually fix this bug.
+
 Some more changes....
+
+Some bugFix changes...
+
