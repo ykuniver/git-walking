@@ -2,4 +2,4 @@ Hello, world!
 
 While someone fixed the bug, we moved forward.
 
-Hmm, let's actually fix this bug.
+Hmm, some changes...
