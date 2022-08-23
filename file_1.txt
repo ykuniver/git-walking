@@ -3,3 +3,11 @@ Hello, world!
 While someone fixed the bug, we moved forward.
 
 Ho-ho, one more piece of work.
+
+Hmm, let's actually fix this bug.
+
+<<<<<<< HEAD
+Ho-ho, one more piece of work.
+=======
+Hmm, let's actually fix this bug.
+>>>>>>> bugFix
